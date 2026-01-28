@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-argv-strided-complex128array2d",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert a Node-API value representing a two-dimensional strided array to a double-precision complex floating-point array.",
   "license": "Apache-2.0",
   "author": {
